@@ -38,3 +38,7 @@ In conclusion, SomaGo's LMS offers a comprehensive solution for organizations lo
 Its intuitive user interface, customizable learning paths, interactive assessments, and real-time reporting make it a versatile and effective tool for corporate training and individual professional development. 
 
 With its cost-saving benefits and increased productivity, SomaGo's LMS is a smart investment for any organization looking to stay ahead in the ever-evolving world of education and training.
+
+SAMPLE FRONT END VIEW:
+
+https://somagoo.000webhostapp.com/index.html
