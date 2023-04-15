@@ -41,4 +41,6 @@ With its cost-saving benefits and increased productivity, SomaGo's LMS is a smar
 
 SAMPLE FRONT END VIEW:
 
+www.somago.tech
+
 https://somagoo.000webhostapp.com/index.html
